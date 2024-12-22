@@ -1,0 +1,34 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: system-ui, sans-serif;
+  color: black;
+  background-color: black;
+  align-items: center;
+}
+
+
+h1 {
+  font-weight: bold;
+  font-size: 1.5rem;
+  color: #fff;
+  text-align: center;
+  margin-top: 15%;
+}
+.clock
+{
+  background-color: orange;
+  padding: 21px;
+   height: 70px;
+  width : 200px;
+  margin-top: 0%;
+  margin-left: 30%;
+  font-weight: bold;
+  font-size: 1.5rem;
+  border-radius: 5%;
+  text-align: center;
+
+}
